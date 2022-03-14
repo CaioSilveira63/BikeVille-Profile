@@ -1,6 +1,7 @@
-titulo: microservico de gerenciamento de usuários (get, put, delete)
+descrição: microservico de gerenciamento de usuários (get, put, delete), utilizando node.js, express.js, e Firestore
 
 rota: /api/v1/User (http://localhost:8080/api/v1/User)
+
 
 documentação da api:
 -get:
