@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "fiap-bikeville",
+  "private_key_id": "f5ec2e232e933563ea12bfb7dc110845f7f39881",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDF+tjP+vmq5sSM\nnR2WdcwjdFfdM3JYu7Kfxyt2XlmqYhTbECPz2TvMHeZFUwqWlNeU6TQCXUhsqZbB\nrxe7goEFh+fEhSQHGV/cqldxW1Pv/WI4+9YKDRtO8dpZLP86HBoTBwoqzvvtg12X\nAOImawRpQmA8goxqsIghH/Z8FYcspos+EdyRhckhqO4/+tKcW0pfyYBbd7Itqm4t\nlecbWtYgIGYjPFm3SYQlhB0mcTuf6bpRnvZQVXAmQBCNAaTHTfHnDTzOKPce7myQ\naRuZaP/Yz7ViDY3cmq1yF4gVrPeboYcYRyrKt6GB4Bs2au1Us+JKG4IxJFzna4Qv\ndSx9N7UVAgMBAAECggEADDgwW53k/QxjQz6LTfcVU3bh2XBMdXeYTc5QO20VYbPO\nD7tOTMWysCWESfEXLTYgnDtMj3zMdJB/EpNJBrTGW94IixOgpqOFTCxjW0bExoJA\nJr48dsBaWCQLUwe49RA498WudffyirVZ+HEAhFiEnC6RnAp+ujMNI+ZCI2R8xF+j\nTcvoeYcf7dbHGvr/VRsJF0eFp2d1219O50zMkSiLJOonrqEBZ4zFsoid02eccQMa\nBiJ9H9Qt8LThwfXiy9mApdYPj9Aj5zWegnQMd7PN2aJuFuyLWRmxJfvhGoNtZKsc\nVWLetEUIDG75fX/xEJ5vIKOOSS3mWkMjQHPAm5VdAQKBgQDv26879ECuTzPQnp3k\noKdNtIjyMgE7KNYfXl2m3oaoYCSjEdSU9uFxFKDs3NDxtGYF43AumsWbNxo94qDR\nJDJ7vw3e6Flj6X6nSleZgyaAOlvygI/+aCPQCIy6Gq5j0XYLooSO/DY2Gnx+53H8\nR84JA5gTuJxxDfFKtGc9cLrrQQKBgQDTTa06D2dQjlCaIhWVkDd8rkBOb4Ptwfya\n19iBLH5XTRjF/i+A3ydAfMYNqu94xuZOJFtBVCRyVrK8ZexUMRtNsZqmfz1lzyFP\nrhQbo7D245u2pNIIW4a8BEeWU0+XhIVqFm+BeFLyLYranf3n1pCt2vGe5yWJvitV\ny996Agv41QKBgQDDGfLD1b33Cz2eaCcOnQ75SexK9RnDQUhKY7vRzBfERdAHRK2i\nLd7a2Gi9wi/DK3YBPCs3/XTW+E9EH1+oPsVBmvpxYpWzi24WLYZrvB5JFy9LZf+6\ndIMM6KdvidxoHSzj8eHZXJXMFGdH4oL5Ln8NHftJr1SxMSIgHfYMJ/IjAQKBgGIt\n/mYy0AtjBNqJKcRDrTR2dpS7Re6MKwX7crKabN29idw9Pe9AQKm7D/87xGc26721\nMN2K7iBeXlAhf4yjAI+6DSR9jJaohk7SkK9DAK/GlAxqStjtRg5IYsbbUOkS/zaK\n1CaxNMEoHhN0Q4ycar8NMyVlO1DkFpiX0O+M0ek9AoGBAM4gQMJfeyENyLTtVLjL\nbt1hbi1eS+AQS0YD1JCN2FCoM46pReTyZlFbSsqxeX97MstIZAN9qzZccu4QXTrz\nBfGaR1uWGGQwaujfmwaGQe+w/zYCONVO1N18VJC2enIsteVhVRLo8ofU12pGtTCn\noZMSbsqbDpbOmoVsq5HFYhvo\n-----END PRIVATE KEY-----\n",
+  "client_email": "homolog@fiap-bikeville.iam.gserviceaccount.com",
+  "client_id": "113646504600885132307",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/homolog%40fiap-bikeville.iam.gserviceaccount.com"
+}
