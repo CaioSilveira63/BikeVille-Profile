@@ -27,7 +27,9 @@ como executar o projeto:
 
     step 2 - executar projeto: GOOGLE_APPLICATION_CREDENTIALS=./env/gcloud.json nodemon server.js
 
+    step 3 - Segue collection pronta para executar as apis no PostMan v2 (BikeVille-Profile.postman_collection.json)
+
     obs: o projeto foi desenvolvido no MacOSX, o comando para iniciar o projeto em outro sistema pode variar
-    
+
     
 
